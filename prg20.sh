@@ -17,3 +17,4 @@ else
         echo "User $user doesn't exist..."
 fi 
 #End 
+#This script is to lock the user in linux
