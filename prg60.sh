@@ -1,5 +1,5 @@
 #!/bin/bash
-select students in issac karthik raja giri manasa vineesha
+select student in issac karthik raja giri manasa vineesha
 do
 	echo $student
 done
